@@ -1,10 +1,10 @@
 ### Vehicle Detection using Yolo-v3
 
-##Setup
+Setup
 
 Clone the repository and store it in your google drive
 
-##To clone on your system
+To clone on your system
 
 Install git on your system from 
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
