@@ -4,7 +4,7 @@
 
 Clone the repository and store it in your google drive
 
-To clone on your system
+To clone  the respository to system
 
 Install git on your system from 
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
